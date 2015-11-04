@@ -2,7 +2,7 @@
 
 void main(void)
 {
-	printf("Starting");
+	printf("Starting\n");
 
-
+    printf("Complete\n");
 }
